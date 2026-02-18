@@ -6,13 +6,13 @@ This project showcases a comprehensive data warehousing and analytics solution, 
 
 ---
 
-## Project Requirements
+## 🚀Project Requirements
 
-### Building the Data Warehouse 
-#### Objective
+### 🏗️Building the Data Warehouse 
+#### 🎯Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
-#### Specifications
+#### 📋Specifications
 - **Data Sources**: Import data from two different sources (ERP and CRM) provided as csv files.
 - **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
 - **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
@@ -22,7 +22,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 ---
 
 ### BI: Analytics & Reporting (Data Analytics)
-#### Objective
+#### 🎯Objective
 Develop SQL-based analytics to deliver detailed insights into:
 - **Customer Behavior**
 - **Product Performance**
@@ -32,11 +32,11 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-## ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) License
+## ⚖️License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## About Me
+## 🧑‍💻About Me
 
 Hi there! I'm **Luc Alli**. I am an IT professional holding a Bachelor’s degree in Biomedical Engineering and a Master’s
 degree in Information Technology with a concentration in Business Administration.
