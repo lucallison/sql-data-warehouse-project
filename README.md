@@ -32,7 +32,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-## License
+## ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
