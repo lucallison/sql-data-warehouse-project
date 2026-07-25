@@ -50,6 +50,9 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Hi there! I'm **Luc Alli**. I am an IT professional holding a Bachelor’s degree in Biomedical Engineering and a Master’s
 degree in Information Technology with a concentration in Business Administration.
+Tuber on a mission to share knowledge and make working with data enjoyable and engaging!
+Let's stay in touch! Feel free to connect with me on the following platform:
+![www.linkedin.com/in/lea-dataanalytics](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
