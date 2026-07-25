@@ -11,9 +11,9 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 This project demonstrates the end-to-end design and implementation of a modern data warehouse, with a focus on scalable architecture, efficient data integration, and business intelligence. 
 Key components include:
 **Data Architecture:** Designed a modern data warehouse using the Medallion Architecture, implementing Bronze, Silver, and Gold layers to organize and refine data through each stage of processing.
-**ETL Development:** Built ETL pipelines to extract data from source systems, transform it into a standardized format, and load it into the data warehouse.
-**Data Modeling:** Designed and implemented fact and dimension tables using dimensional modeling techniques to support high-performance analytical queries.
-**Analytics & Reporting:** Developed SQL-based reports and dashboards that deliver actionable insights and support data-driven decision-making.
+- **ETL Development:** Built ETL pipelines to extract data from source systems, transform it into a standardized format, and load it into the data warehouse.
+- **Data Modeling:** Designed and implemented fact and dimension tables using dimensional modeling techniques to support high-performance analytical queries.
+- **Analytics & Reporting:** Developed SQL-based reports and dashboards that deliver actionable insights and support data-driven decision-making.
 
 ### 🏗️Building the Data Warehouse
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
