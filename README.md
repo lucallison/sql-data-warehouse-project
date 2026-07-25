@@ -52,4 +52,5 @@ Hi there! I'm **Luc Alli**. I am an IT professional holding a Bachelor’s degre
 degree in Information Technology with a concentration in Business Administration.
 Let's stay in touch! Feel free to connect with me on the following platform:
 
-![www.linkedin.com/in/lea-dataanalytics](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+www.linkedin.com/in/lea-dataanalytics
